@@ -1,0 +1,6 @@
+import javax.swing.*;
+  public class JOption {
+    public static void main(String...args) {
+    
+    String[]food = {"Meal-A","Meal-B","Meal-C"};
+    String[]type = {"DINE IN","TAKE OUT"};
